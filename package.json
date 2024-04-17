@@ -1,0 +1,28 @@
+{
+  "name": "snrv4k--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@syncfusion/ej2-base": "25.1.35",
+    "@syncfusion/ej2-react-base": "25.1.35",
+    "@syncfusion/ej2-filemanager": "25.1.40",
+    "@syncfusion/ej2-react-filemanager": "25.1.40",
+    "@syncfusion/ej2-lists": "25.1.39",
+    "@syncfusion/ej2-documenteditor": "25.1.40",
+    "@syncfusion/ej2-buttons": "25.1.39",
+    "@syncfusion/ej2-splitbuttons": "25.1.38",
+    "@syncfusion/ej2-navigations": "25.1.40",
+    "@syncfusion/ej2-react-popups": "25.1.39"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
